@@ -88,7 +88,7 @@ public class loops{
         System.out.print(sum);
     }
 }
-*/
+
 
 import java.util.*;
 public class loops{
@@ -107,3 +107,4 @@ public class loops{
         sc.close();
     }
 }
+*/

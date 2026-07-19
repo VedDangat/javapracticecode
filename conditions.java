@@ -96,7 +96,7 @@ public class conditions{
             sc.close();
     }
 }
-*/
+
 
 import java.util.*;
 public class conditions{
@@ -140,3 +140,5 @@ public class conditions{
         sc.close();
     }
 }
+*/
+
