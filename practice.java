@@ -123,7 +123,7 @@ public class practice{
         }
     }
 }
-*/
+
 import java.util.*;
 
 public class practice {
@@ -161,3 +161,5 @@ public class practice {
         sc.close();
     }
 }
+
+*/
